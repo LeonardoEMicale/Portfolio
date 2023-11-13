@@ -1,4 +1,4 @@
 # Portfolio desarrollado en vite + react + tailwindcss + js
 
-Check my last works!
+Check my lasts works!
 https://leonardo-micale.netlify.app/
