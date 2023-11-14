@@ -10,11 +10,12 @@ const Projects = () => {
         Projects
       </h1>
       <p className="text-center py-8 text-base font-normal text-stone-500">
-        + 1 year Experience as a software developer. In my previous experience I
-        joined work teams under agile methodologies. I learned a lot about
-        importance of relationships in work groups, that's why I always seek the
-        goal of improving my skills, technical and human, as well as those of my
-        colleagues.
+        I'm always looking for improve my skills and learn new ones so there are
+        some of my lasts works
+      </p>
+      <p className="text-center py-8 text-base font-normal text-stone-500">
+        My works are developed with node.js | react | tailwindcss | js | ts |
+        express | firebase | mongodb | postgresql
       </p>
       <div className="grid sm:grid-cols-2 gap-12">
         <ProjectItem img={landing} title="HealthPlus" />

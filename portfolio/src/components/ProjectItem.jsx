@@ -17,7 +17,7 @@ const ProjectItem = ({ img, title }) => {
   } else if (title === "Rick and Morty") {
     projectGithub = "https://github.com/LeonardoEMicale/Rick-and-Morty-web";
   } else if (title === "Tnt-Market") {
-    projectGithub = "In progress";
+    projectGithub = "https://github.com/LeonardoEMicale/tnt-server";
   }
 
   return (

@@ -28,7 +28,7 @@ const Main = () => {
                 1000, // wait 1s before replacing "Mice" with "Hamsters"
                 "FRONT END DEVELOPMENT | React.js * Redux * JavaScript * Tailwind CSS * HTML * CSS",
                 1000,
-                "DATABASES | MongoDB * PostgreSQL * Firebase * Sequelize * SQL",
+                "DATABASES | MongoDB * PostgreSQL * Firebase * SQL",
                 1000,
               ]}
               wrapper="div"
